@@ -1,4 +1,7 @@
 # AO3
+
+Installing Git and using GitHub
+
 Step 1: create an account on https://github.com/ and create a repository
 Step 2: Download and install Git from https://git-scm.com/
 Step 3: Launch Git, and type the following commands to register your GITHUB credentials from the account you just registered
@@ -18,6 +21,14 @@ Step 8: type the fllowing command to push your staged files. you will then be as
 Step 9: Your files will now be uploaded into your repository
 
 
+Webstorm
+Step 1: Click "apply now" on the following link https://www.jetbrains.com/community/education/#students
+Step 2: Fill out the requested information accurately, be sure to use your school issued email address ending in .edu, then click Apply
+Step 3: Go to your school email inbox, and click the link sent by jetbrains
+Step 4: Copy the license key provided
+Step 5: Download a copy of Webstorm from https://www.jetbrains.com/webstorm/download/#section=windows
+Step 6: Once installed, paste the key you copied from your email into the appropriate field
+Step 7: You have now installed webstorm
 
 
 
